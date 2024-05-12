@@ -1,0 +1,6 @@
+xinliyizhanbushu2.data.unityweb filter=lfs diff=lfs merge=lfs -text
+xinliyizhanbushu2.framework.js.unityweb filter=lfs diff=lfs merge=lfs -text
+xinliyizhanbushu2.loader.js filter=lfs diff=lfs merge=lfs -text
+xinliyizhanbushu2.symbols.json.unityweb filter=lfs diff=lfs merge=lfs -text
+xinliyizhanbushu2.wasm.unityweb filter=lfs diff=lfs merge=lfs -text
+Build filter=lfs diff=lfs merge=lfs -text
